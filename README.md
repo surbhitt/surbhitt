@@ -1,5 +1,5 @@
 - 👋 Hi, I’m surbhit ^~^
-- 👀 I’m interested in python❤..malwares, exploits, rogue scripts and bugs..also cryptography and LINUX.
+- 👀 I’m interested in programming (python❤)... information security and LINUX and free open source softwares.
 - 👾 Would love to play CTFs. defcon someday.
 - 🌱 I’m currently learning lot of random things...
 - 💞️ I’m looking to collaborate on anything...
