@@ -1,4 +1,4 @@
-![donut.c](assets/do)
+![assets/donut.c](assets/do)
 python and c++ <3
 
 
