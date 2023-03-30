@@ -1,4 +1,4 @@
-![assets/do.gif](assets/do)
+![donut](assets/do.gif)
 python and c++ <3
 
 
