@@ -1,3 +1,3 @@
 
 
-![GoL](assets/glider.gif)
+![GoL](glider.gif)
