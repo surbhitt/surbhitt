@@ -1,4 +1,6 @@
 
+<!--img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surbhitt"/-->
+
 <h2>Introduction</h2>
 I'm a computer science student, about to graduate. I love creative coding; check out my demos here. Writing is my other passion, and you can find my thoughts on my <a href="https://www.medium.com/@valholl">Medium</a> blog, I am on the lookout for topics to write on but I don't get to write as often as I had wish. Python and C are close to my heart; I know a little bit of many languages mentioned below</a>, I'm excited to learn Rust and solidity sometime in future. I enjoy exploring YouTube videos on tech.
 <br>
