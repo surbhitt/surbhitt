@@ -42,7 +42,3 @@ To summarise I love computers.
 
 
 checkout for more such stuff <a href="https://github.com/surbhitt/mini-projects">mini-projects repo</a>
-
-<h2>Medium</h2>
-
-[![my blog](https://github-readme-medium.vercel.app/?username=valholl&limit=3&bg=222f2e&text=white)](https://medium.com/@valholl)
